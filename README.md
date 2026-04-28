@@ -39,8 +39,8 @@ terraform apply
 
 MIT - Use freely, improvements welcome
 
+**GitHub:** https://github.com/oconnorssoftware/aws-cost-optimizer
+
 ---
 
-**Built by:** [Your Name]
-**Twitter:** [@yourhandle]
-**GitHub:** [your-github]
+**Built by:** O'Connor's Software
